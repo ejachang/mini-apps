@@ -1,2 +1,14 @@
 node_modules
 *.DS_Store
+
+#Private md files
+challenge_1/C1_readme.md
+challenge_1/C1_hints.md
+challenge_2/C2_readme.md
+challenge_2/C2_hints.md
+challenge_3/C3_readme.md
+challenge_3/C3_hints.md
+challenge_4/C4_readme.md
+challenge_4/C4_hints.md
+challenge_5/C5_readme.md
+challenge_6/C6_readme.md
